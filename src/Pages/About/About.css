@@ -1,0 +1,13 @@
+.about {
+  margin: 5% 10%;
+}
+
+.about p {
+  display: flex;
+  flex-direction: column;
+}
+
+.about span:nth-of-type(2n + 1) {
+  font-weight: bold;
+  color: #311b92;
+}

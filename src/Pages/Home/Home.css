@@ -1,0 +1,21 @@
+.home {
+  margin: 5% 10%;
+  text-align: center;
+}
+
+.home h1 {
+  color: #303f9f;
+}
+
+.home span {
+  font-weight: bold;
+}
+
+.home span:hover {
+  color: red;
+}
+
+.home img {
+  width: 80%;
+  height: 80%;
+}
